@@ -1,17 +1,20 @@
-[
-    {
-        "produto": "produto1",
-        "preco": 20,
-        "qtde": 2
-    },
-    {
-        "produto": "produto2",
-        "preco": 22,
-        "qtde": 3
-    },
-    {
-        "produto": "produto3",
-        "preco": 25,
-        "qtde": 8
-    }
-]
+{"produtos":
+
+    [
+        {
+            "produto": "produto1",
+            "preco": 20,
+            "qtde": 2
+        },
+        {
+            "produto": "produto2",
+            "preco": 22,
+            "qtde": 3
+        },
+        {
+            "produto": "produto3",
+            "preco": 25,
+            "qtde": 8
+        }
+    ]
+}
